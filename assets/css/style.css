@@ -1,0 +1,7 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+input, button {
+    transition: all 0.2s ease-in-out;
+}
